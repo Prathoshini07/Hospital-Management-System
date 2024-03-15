@@ -24,7 +24,10 @@
                     <td>Pharmacist</td>
                 </tr>
                 </table>
-            </div>
+        </div>
+        <?php 
+            echo "Home page";
+        ?>
         </div>
     </body>
 </html>
