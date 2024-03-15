@@ -22,12 +22,21 @@
 }
 #section1 #home img 
 {
-    transition: opacity 0.3s ease; /* Smooth transition */
+    transition: opacity 0.3s ease; 
 }
 #section1 #home img:hover 
 {
-    opacity: 0.7; /* Adjust the opacity value as desired */
+    opacity: 0.7; 
+}
+#section2 table,h1{
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 #section2 table{
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);    
+    padding-top: 150px;
 }
