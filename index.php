@@ -12,7 +12,7 @@
             <div id="home">
                 <table cellspacing="15px">
                 <tr>
-                    <td><a href="_blank"><img src="Assets/profile_icon.jpg" height="150px" width="150px"></a></td>
+                    <td><a href="admin.php"><img src="Assets/profile_icon.jpg" height="150px" width="150px"></a></td>
                     <td><a href="_blank"><img src="Assets/doctor_icon.jpg" height="150px" width="150px"></a></td>
                     <td><a href="_blank"><img src="Assets/patient_icon.jpg" height="150px" width="150px"></a></td>
                     <td><a href="_blank"><img src="Assets/pharmacist_icon.jpg" height="150px" width="150px"></a></td>      
@@ -24,10 +24,7 @@
                     <td>Pharmacist</td>
                 </tr>
                 </table>
-        </div>
-        <?php 
-            echo "Home page";
-        ?>
+            </div>
         </div>
     </body>
 </html>
