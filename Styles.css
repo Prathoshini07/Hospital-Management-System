@@ -1,4 +1,4 @@
-#section1,#section2 {
+#section1,#section2{
     height: 730px;
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
@@ -28,7 +28,16 @@
 {
     opacity: 0.7; 
 }
-#section2 table,h1{
+#section2 table{
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#section2 h1{
     color:whitesmoke;
     display: flex;
     justify-content: center;
@@ -39,4 +48,17 @@
 }
 #section2 table{
     padding-top: 150px;
+}
+#section3 h1{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+#section3 form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }

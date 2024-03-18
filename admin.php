@@ -11,7 +11,7 @@
         <h1 style="padding-top:100px">ADMIN</h1>
         <table cellspacing="15px" cellpadding="15px" style="text-align:center">
             <tr style="background-color: rgba(255,255,255,0.5)">
-                <td>Add Employee</td>
+                <td><a href="add_emp.php">Add Employee</a></td>
                 <td>Alter Employee Details</td>
                 <td>Delete Employee</td>
                 <td>Room Allotment</td>
