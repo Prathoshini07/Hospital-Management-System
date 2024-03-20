@@ -12,12 +12,12 @@
         <img src="Assets/profile_icon.jpg" height="150px" width="150px" >
         <table cellspacing="15px" cellpadding="15px" style="text-align:center">
             <tr style="background-color: rgba(255,255,255,0.5)">
-                <td><a href="add_emp.html">Add Employee</a></td>
-                <td><a href="alter_emp.html">Alter Employee Details</a></td>
-                <td><a href="get_patient_details.html">Get Patient Details</a></td>
-                <td><a href="salary.html">Salary</a></td>
-                <td><a href="get_appointment_details.html">Get Appointment Details</a></td>
-                <td><a href="get_admission_details.html">Get Admission Details</a></td>
+                <td><a href="add_emp.php">Add Employee</a></td>
+                <td><a href="alter_emp.php">Alter Employee Details</a></td>
+                <td><a href="get_patient_details.php">Get Patient Details</a></td>
+                <td><a href="salary.php">Salary</a></td>
+                <td><a href="get_appointment_details.php">Get Appointment Details</a></td>
+                <td><a href="get_admission_details.php">Get Admission Details</a></td>
             </tr>
         </table>
         </div>
