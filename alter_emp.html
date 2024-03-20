@@ -78,12 +78,12 @@
 </head>
 <body>
 <div id="section3">
-    <h2>Alter Employee</h2>
+    <h2>Alter Employee Details</h2>
     <form>
         <label for="eid">Employee ID</label>
-        <input type="text" placeholder="Employee ID">
+        <input type="text" placeholder="Employee ID"><br>
         <label for="hid">Hospital ID</label>
-        <input type="text" placeholder="Hospital ID">
+        <input type="text" placeholder="Hospital ID"><br>
         <label for="alter">Enter the field to be altered</label>
         <select id="alterField" onchange="showTextBox()">
             <option value="none"></option>
@@ -96,7 +96,7 @@
             <option value="duty">Duty Hours</option>
             <option value="specialization">Specialization</option>
             <option value="experience">Prior experience</option>
-        </select>
+        </select><br>
         <div id="textBoxContainer"></div> <!-- Container to hold dynamically generated text box -->
         <button type="submit">Alter Employee</button>
     </form>
