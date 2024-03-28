@@ -13,7 +13,7 @@
                 <table cellspacing="15px">
                 <tr>
                     <td><a href="admin.php"><img src="Assets/profile_icon.jpg" height="150px" width="150px"></a></td>
-                    <td><a href="_blank"><img src="Assets/doctor_icon.jpg" height="150px" width="150px"></a></td>
+                    <td><a href="doctormenu.php"><img src="Assets/doctor_icon.jpg" height="150px" width="150px"></a></td>
                     <td><a href="_blank"><img src="Assets/patient_icon.jpg" height="150px" width="150px"></a></td>
                     <td><a href="pharm_mod.php"><img src="Assets/pharmacist_icon.jpg" height="150px" width="150px"></a></td>      
                 </tr>
