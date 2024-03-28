@@ -24,7 +24,9 @@
       <form action="submit_leave.php" method="post">
         <div class="form-group">
           <label for="employeeName">Employee Name:</label>
-          <input type="text" class="form-control" id="employeeName" name="employeeName" placeholder="Enter your name" required>
+          <input type="text" class="form-control" id="employeeName" name="employeeName" placeholder="Enter  name" required>
+          <label for="employeeid">Employee Name:</label>
+          <input type="text" class="form-control" id="employeeid" name="employeeName" placeholder="Enter id" required>
         </div>
         <div class="form-group">
           <label for="leaveType">Leave Type:</label>
