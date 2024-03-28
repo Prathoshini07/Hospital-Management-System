@@ -8,9 +8,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- Custom CSS -->
   <style>
-    body {
-      background-color: #f8f9fa;
-    }
+   
     .menu-container {
       margin-top: 50px;
     }
@@ -19,7 +17,7 @@
       padding: 20px;
       margin-bottom: 20px;
       border-radius: 5px;
-      background-color: #fff;
+      background-color:rgb(105, 228, 230);
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
     .menu-item:hover {
@@ -28,6 +26,7 @@
   </style>
 </head>
 <body>
+
 
 <div class="container menu-container">
   <div class="row">
